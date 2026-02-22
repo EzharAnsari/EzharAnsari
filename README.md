@@ -3,7 +3,7 @@
 Open to roles in product & high-growth startups • 5+ years experience  
 
 🔗 Resume: in_progress  
-🔗 LinkedIn: https://www.linkedin.com/in/md-ezhar-ansari-42b441151/  
+🔗 LinkedIn: https://www.linkedin.com/in/ezharansari  
 🔗 LeetCode: https://leetcode.com/u/ansari_ezhar/
 
 ---
@@ -63,4 +63,4 @@ Demo containerization & deployment
 
 ## 📫 Connect with Me  
 📩 Email: ansari.ezhar001@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/md-ezhar-ansari-42b441151/  
+🔗 LinkedIn: https://www.linkedin.com/in/ezharansari  
